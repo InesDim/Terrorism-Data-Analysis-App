@@ -31,7 +31,8 @@ Usage
 library(shiny)
 runApp("path_to_app_directory")
 Access the app: Once the app is running, navigate to http://localhost:3838 in your web browser to interact with the application.
-Or Acces the app with this link : https://inesdimassi.shinyapps.io/Terrorism/
+
+Or you can acces the app with this link : https://inesdimassi.shinyapps.io/Terrorism/
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate documentation.
