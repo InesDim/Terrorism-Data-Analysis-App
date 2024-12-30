@@ -1,6 +1,8 @@
 # Terrorism Data Analysis Application
 <img width="1212" alt="Screenshot 2024-12-30 at 22 42 39" src="https://github.com/user-attachments/assets/2f79734a-3e6a-4822-b1b6-9be39ad66af0" />
+
 ## Description
+
 This Shiny web application provides an interactive platform for exploring and analyzing global terrorism data. Users can visualize trends, filter data by various criteria, and gain insights into terrorism patterns over time.
 
 ## Features
